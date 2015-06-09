@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8395f2a7-2376-431b-a9a0-c6bb88b153de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.php_classes/Page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.incs/basics.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.incs/common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.private/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ww.php_classes/Page.php" afterPath="$PROJECT_DIR$/ww.php_classes/Page.php" />
     </list>
     <ignored path="cms4fun.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,9 +60,21 @@
       <file leaf-file-name="Page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ww.php_classes/Page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.052910052" vertical-offset="0" max-vertical-offset="567">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-              <folding />
+            <state vertical-scroll-proportion="0.94708997" vertical-offset="213" max-vertical-offset="870">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+              <folding>
+                <marker date="1433813206000" expanded="true" signature="420:449" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="420:450" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="420:459" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="702:739" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="702:778" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="702:786" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="702:2135" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="952:986" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="952:987" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="952:996" placeholder="select * fro..pages..." />
+                <marker date="1433813206000" expanded="true" signature="1783:2135" placeholder="select * fro..pages..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -327,9 +334,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ww.php_classes/Page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.052910052" vertical-offset="0" max-vertical-offset="567">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
+        <state vertical-scroll-proportion="0.94708997" vertical-offset="213" max-vertical-offset="870">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <marker date="1433813206000" expanded="true" signature="420:449" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="420:450" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="420:459" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="702:739" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="702:778" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="702:786" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="702:2135" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="952:986" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="952:987" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="952:996" placeholder="select * fro..pages..." />
+            <marker date="1433813206000" expanded="true" signature="1783:2135" placeholder="select * fro..pages..." />
+          </folding>
         </state>
       </provider>
     </entry>
