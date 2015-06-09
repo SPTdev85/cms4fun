@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8395f2a7-2376-431b-a9a0-c6bb88b153de" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.admin/admin_libs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.admin/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.admin/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ww.admin/users.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ww.php_classes/Page.php" afterPath="$PROJECT_DIR$/ww.php_classes/Page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ww.incs/basics.php" afterPath="$PROJECT_DIR$/ww.incs/basics.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ww.incs/common.php" afterPath="$PROJECT_DIR$/ww.incs/common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cms4fun.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +36,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ww.admin/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="495">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="405">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ww.incs/common.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ww.admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.07936508" vertical-offset="0" max-vertical-offset="567">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ww.admin/users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -50,30 +69,22 @@
       <file leaf-file-name="basics.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ww.incs/basics.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.375" vertical-offset="33" max-vertical-offset="675">
-              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ww.php_classes/Page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94708997" vertical-offset="213" max-vertical-offset="870">
-              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <state vertical-scroll-proportion="-3.625" vertical-offset="243" max-vertical-offset="870">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
-                <marker date="1433813206000" expanded="true" signature="420:449" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="420:450" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="420:459" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="702:739" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="702:778" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="702:786" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="702:2135" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="952:986" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="952:987" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="952:996" placeholder="select * fro..pages..." />
-                <marker date="1433813206000" expanded="true" signature="1783:2135" placeholder="select * fro..pages..." />
+                <marker date="1433815690000" expanded="true" signature="335:374" placeholder="select * fro..pages..." />
+                <marker date="1433815690000" expanded="true" signature="565:632" placeholder="select * fro..pages..." />
+                <marker date="1433815690000" expanded="true" signature="775:819" placeholder="select * fro..pages..." />
               </folding>
             </state>
           </provider>
@@ -104,17 +115,21 @@
       <list>
         <option value="$PROJECT_DIR$/.private/config.php" />
         <option value="$PROJECT_DIR$/.private/.htaccess" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/ww.incs/common.php" />
-        <option value="$PROJECT_DIR$/ww.incs/basics.php" />
         <option value="$PROJECT_DIR$/ww.php_classes/Page.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/ww.incs/basics.php" />
+        <option value="$PROJECT_DIR$/ww.incs/common.php" />
+        <option value="$PROJECT_DIR$/ww.admin/admin_libs.php" />
+        <option value="$PROJECT_DIR$/ww.admin/footer.php" />
+        <option value="$PROJECT_DIR$/ww.admin/header.php" />
+        <option value="$PROJECT_DIR$/ww.admin/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="42" />
+    <option name="x" value="71" />
+    <option name="y" value="401" />
     <option name="width" value="1260" />
     <option name="height" value="688" />
   </component>
@@ -201,6 +216,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ww.admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cms4fun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cms4fun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value=".private" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -247,7 +276,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="42" width="1260" height="688" extended-state="0" />
+    <frame x="71" y="401" width="1260" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -308,47 +337,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$USER_HOME$/Desktop/2527OS_Code 3/chapter-01/cms/ww.php_classes/Page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="495">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.94708997" vertical-offset="243" max-vertical-offset="870">
+          <caret line="52" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1268935034000" expanded="true" signature="-1:-1" placeholder="select * fro..pages..." />
+            <marker date="1268935034000" expanded="true" signature="-1:-1" placeholder="select * fro..pages..." />
+            <marker date="1268935034000" expanded="true" signature="-1:-1" placeholder="select * fro..pages..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.php_classes/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.625" vertical-offset="243" max-vertical-offset="870">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <marker date="1433815690000" expanded="true" signature="335:374" placeholder="select * fro..pages..." />
+            <marker date="1433815690000" expanded="true" signature="565:632" placeholder="select * fro..pages..." />
+            <marker date="1433815690000" expanded="true" signature="775:819" placeholder="select * fro..pages..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.incs/basics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.admin/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.admin/admin_libs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41360295" vertical-offset="0" max-vertical-offset="544">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.admin/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ww.incs/common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.052910052" vertical-offset="0" max-vertical-offset="567">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ww.incs/basics.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.375" vertical-offset="33" max-vertical-offset="675">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.07936508" vertical-offset="0" max-vertical-offset="570">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ww.php_classes/Page.php">
+    <entry file="file://$PROJECT_DIR$/ww.admin/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94708997" vertical-offset="213" max-vertical-offset="870">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-          <folding>
-            <marker date="1433813206000" expanded="true" signature="420:449" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="420:450" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="420:459" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="702:739" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="702:778" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="702:786" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="702:2135" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="952:986" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="952:987" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="952:996" placeholder="select * fro..pages..." />
-            <marker date="1433813206000" expanded="true" signature="1783:2135" placeholder="select * fro..pages..." />
-          </folding>
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="405">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ww.admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07936508" vertical-offset="0" max-vertical-offset="567">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
